@@ -11,8 +11,14 @@
   "profile": {
     "name": "typicode"
   },
-  "user": {
-    "id": 1,
-    "name": "Argh Chakrabarty"
-  }
+  "user": [
+    {
+      "id": 1,
+      "name": "Argh Chakrabarty"
+    },
+    {
+      "id": 2,
+      "name": "Aakash Chakrabarty"
+    }
+  ]
 }
